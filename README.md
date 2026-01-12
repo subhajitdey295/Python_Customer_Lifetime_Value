@@ -1,5 +1,7 @@
 # Customer Lifetime Value Analysis Using Python
 
+➡️ View the Full Business Report (PDF): [Customer Lifetime Value Analysis.pdf](https://github.com/user-attachments/files/24570061/Customer.Lifetime.Value.Analysis.pdf)
+
 1. Project Title:
    Customer Acquisition & Sales Performance Analysis: Python & Plotly
    An analytical project that evaluates customer acquisition costs, revenue generation, and ROI across marketing channels — using Python and interactive visualizations to guide strategic business decisions.
